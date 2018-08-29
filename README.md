@@ -1,9 +1,9 @@
 # testherramientas
-#mercado
+##mercado
 *proteina
   *res
   *pescado
   *cerdo
- *cereales
+*cereales
   *arroz
   *lentejas
